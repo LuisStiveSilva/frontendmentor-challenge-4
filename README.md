@@ -48,7 +48,7 @@ Desktop
 
 ### What I learned
 
-This challenge work like practice. I used everything i know.
+This challenge worked like practice. I used everything i know.
 
 ### Continued development
 
